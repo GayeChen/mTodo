@@ -1,0 +1,8 @@
+{
+  "name": "MyTodo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/GayeChen/mTodo.git",
+  "author": "GayeChen <gayechen@gmail.com>",
+  "license": "MIT"
+}
